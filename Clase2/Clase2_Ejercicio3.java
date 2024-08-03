@@ -1,10 +1,13 @@
 /*
-*   Ejercicio 3.
+*   Maestria en Electrónica - Énfasis TIC
+*   Fundamentos de Programación 2024 
+*   
+*   Clase 2 - Ejercicio Ejemplo 3.
 *   Leer la base y altura de un triángulo e imprimir su superficie
 */
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class Clase2_Ejercicio3 {
     public static void main(String [] args) {
         int base, altura ;
         double superficie; 
