@@ -6,7 +6,7 @@
 *  Primer Programa en Java 
 */
 public class Clase2_Ejercicio1 {
-    public static void main (String args ) {
+    public static void main (String [] args ) {
         System.out.println("Hola Mundo!!");
     }
 }
