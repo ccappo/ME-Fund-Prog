@@ -5,7 +5,7 @@
     "tasks": [
         {
             "label": "java",
-            "type": "${workspaceFolder}",
+            "type": "process",
             "command": "javac ${relativeFile}"
         }
     ]
