@@ -26,5 +26,7 @@ public class Clase3_Ejemplo2 {
 		}
 		sc.close();
 		System.out.printf("La cantidad de leídos fue %d y el promedio fue %.3f",cnt,suma/(cnt*1.0)); 
+        
+        sc.close();
 	}
 }

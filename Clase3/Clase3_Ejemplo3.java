@@ -24,7 +24,8 @@ public class Clase3_Ejemplo3 {
             n = n/10;
         } while ( n > 0 );
 
-        System.out.printf("La cantidad de dígitos de %d es %d",n_orig,cnt); 
+        System.out.printf("La cantidad de dígitos de %d es %d",n_orig,cnt_dig); 
  
+        sc.close();
 	}
 }
