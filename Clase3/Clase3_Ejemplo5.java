@@ -6,6 +6,10 @@
 *
 *  Dado un número entero mayor o igual a cero imprimir su factorial n! = 1*2*3..*n
 */
+
+import java.util.Scanner;
+
+
 public class Clase3_Ejemplo5 {
 	public static void main(String [] args ) {
 		

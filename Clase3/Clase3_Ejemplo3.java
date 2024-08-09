@@ -7,6 +7,10 @@
 *  Dado un número enetor mayor o igual a cero imprimir la cantidad de dígitos que tiene
 *  
 */
+
+import java.util.Scanner;
+
+
 public class Clase3_Ejemplo3 {
 	public static void main(String [] args ) {
 		
