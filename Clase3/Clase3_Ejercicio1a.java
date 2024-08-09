@@ -2,7 +2,7 @@
 *  Maestria en Electrónica - Énfasis TIC
 *  Fundamentos de Programación 2024
 *
-*  Clase 2 - Ejercicio Ejemplo 1
+*  Clase 2 - Ejercicio  1 utilizando la entrada por teclado
 *
 *  Resolver la ecuación cuadrática teniendo en cuenta solo el caso
 *  de b^2 - 4ac > 0. No validamos esta situación 
@@ -10,7 +10,7 @@
 */
 import java.util.Scanner;
 
-public class Clase3_Ejercicio1 {
+public class Clase3_Ejercicio1a {
     public static void main (String [] args ) {
 
         Scanner sc = new Scanner(System.in);
