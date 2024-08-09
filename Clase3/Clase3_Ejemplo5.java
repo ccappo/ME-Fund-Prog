@@ -18,7 +18,7 @@ public class Clase3_Ejemplo5 {
         int n = sc.nextInt();
         int fact = 1;
         for ( int k = 1; k <= n; k++ ) 
-            fact += fact * k;   
+            fact *=  k;   
         System.out.printf("%d! = %d\n",n, fact); 
 
         sc.close();
