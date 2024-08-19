@@ -5,9 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Attach to Process",
+            "type": "jdk",
+            "request": "attach",
+            "processId": "${command:jdk.java.attachDebugger.pickProcess}"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
         }
+        
     ]
 }
