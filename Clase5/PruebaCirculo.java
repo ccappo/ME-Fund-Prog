@@ -1,5 +1,5 @@
 public class PruebaCirculo {
-    private static void main ( String [] args ) {
+    public static void main ( String [] args ) {
          Circulo circulo1 = new Circulo(1.5);
          System.out.printf("El circulo de radio %f tiene área %f y perimetro = %f",
                             circulo1.radio, 
