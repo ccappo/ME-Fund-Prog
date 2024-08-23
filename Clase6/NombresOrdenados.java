@@ -8,7 +8,8 @@
 import java.util.*;
 
 /**
- * 
+ *  Lee una serie de nombres de la linea de comandos y los imprime de manera ordenada
+ *  Hace uso de la utilidad de ordenacion de Collections
  */
 public class NombresOrdenados {
 
@@ -16,7 +17,7 @@ public class NombresOrdenados {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		if ( args.length > 0 ) {
 			
 			ArrayList<String> lista = new ArrayList<>();

@@ -1,6 +1,9 @@
-/**
- * 
- */
+/* 
+*  Maestria en Electrónica - Énfasis TIC
+*  Fundamentos de Programación 2024
+*
+*  Clase 6 - Ejemplo de uso de HashMap
+*/
 
 import java.util.*;
 
@@ -13,7 +16,7 @@ public class ContarCaracteres {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
         String frase = args[0];
         
         HashMap<Character, Integer> mp = new HashMap<Character,Integer>();
